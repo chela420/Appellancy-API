@@ -1,5 +1,5 @@
 ARCHS = armv7 arm64
-THEOS_DEVICE_IP = 192.168.7.146
+THEOS_DEVICE_IP = 192.168.0.1
 include $(THEOS)/makefiles/common.mk
 
 TWEAK_NAME = Appellancy_API_sample
